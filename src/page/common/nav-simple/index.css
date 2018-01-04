@@ -1,0 +1,19 @@
+/*
+* @Author: theeternalcity
+* @Date:   2017-12-22 21:28:07
+* @Last Modified by:   theeternalcity
+* @Last Modified time: 2017-12-22 22:02:44
+*/
+
+.nav-simple{
+	height: 60px;
+	line-height: 60px;
+	border-bottom: 1px solid #ddd;
+	background: #fff;
+}
+
+.nav-simple .logo{
+	font-size: 26px;
+	font-weight: bold;
+	color: #c60023;
+}
